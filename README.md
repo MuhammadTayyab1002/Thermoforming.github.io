@@ -66,8 +66,9 @@ All these stages are reflected in the HMI mockups and actual GUI images.
 
 ## Demo
 
-🚀 **Live demo:** https://`your-username`.github.io/`repo-name`/  
-*(Replace with your actual GitHub Pages URL after deployment)*
+🚀 **Live demo:** https://thermoforming.github.io  
+
+*(This repository is built as a GitHub Pages site – the root `index.html` is served automatically.)*
 
 ![Thermoforming HMI Preview](https://via.placeholder.com/800x450?text=Thermoforming+GUI+Demo)
 
