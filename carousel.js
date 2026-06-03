@@ -2,12 +2,12 @@
 
 // List of actual GUI images (add/remove as needed)
 const images = [
-    { src: "/assets/Landing.png", caption: "Landing Page" },
-    { src: "/assets/Preheating.png", caption: "Preheating Page" },
-    { src: "/assets/Heating.png", caption: "Heating Page" },
-    { src: "/assets/Cooling.png", caption: "Cooling Page" },
-    { src: "/assets/Manual.png", caption: "Manual Mode" },
-    { src: "/assets/Parameter.png", caption: "Parameter Page" }
+    { src: "assets/Landing.png", caption: "Landing Page" },
+    { src: "assets/Preheating.png", caption: "Preheating Page" },
+    { src: "assets/Heating.png", caption: "Heating Page" },
+    { src: "assets/Cooling.png", caption: "Cooling Page" },
+    { src: "assets/Manual.png", caption: "Manual Mode" },
+    { src: "assets/Parameter.png", caption: "Parameter Page" }
 ];
 
 let currentIndex = 0;
