@@ -16,11 +16,7 @@ This repository contains a fully responsive, interactive website that showcases 
 - [Machine Workflow](#machine-workflow)
 - [Demo](#demo)
 - [Project Structure](#project-structure)
-- [Installation & Local Usage](#installation--local-usage)
-- [Customization](#customization)
 - [Technologies Used](#technologies-used)
-- [Future Enhancements](#future-enhancements)
-- [License](#license)
 - [Acknowledgments](#acknowledgments)
 
 ---
@@ -77,3 +73,26 @@ All these stages are reflected in the HMI mockups and actual GUI images.
 ---
 
 ## Project Structure
+
+── index.html # Main HTML file
+├── css/
+│ └── style.css # All styles
+├── carousel.js # JavaScript for the image carousel
+├── README.md # This file
+└── [actual GUI images] # PNG files listed below
+
+## Technologies Used
+
+1. **STM32** – MCU Used.
+2. **Proteus** – Used for Circuit Simulation, Design and PCB Design.
+3. **Nextion** – HMI.
+4. **PID** – For temperature Control.
+5. **HTML5** – semantic markup.
+6. **CSS3** – Flexbox, Grid, custom scrollbars, media queries.
+7. **JavaScript (ES6)** – carousel logic, event handling, dynamic dots, keyboard navigation.
+8. **GitHub Pages** – static hosting.
+
+## Acknowledgments
+
+1. Developed for Revive Medical Technologies – advancing catheter prototyping.
+2. Developed By Muhammad Tayyab.
